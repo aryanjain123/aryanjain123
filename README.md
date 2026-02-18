@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Aryan
+### AI & Machine Learning Developer
 
-<!--
-**aryanjain123/aryanjain123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+- Focused on Artificial Intelligence and Machine Learning
+- Interested in Reinforcement Learning, Generative AI, and LLM systems
+- Building Game AI using Unity ML-Agents
+- Exploring research paper implementations and model experimentation
+- Interested in AI automation, ML pipelines, and scalable systems
+- Open to internships and collaborations in AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core Interests
+- Machine Learning Engineering
+- Reinforcement Learning
+- Generative AI and LLM Applications
+- Automation Workflows
+- Data Processing and ML Pipelines
+- Game AI and Simulation Environments
+
+---
+
+## Technical Skills
+
+### Programming Languages
+Python, C#, C++, JavaScript
+
+### AI / Machine Learning
+TensorFlow, PyTorch, ML-Agents, NEAT, Genetic Algorithms
+
+### Tools & Platforms
+Unity, Git, Google Colab, Linux
+
+### Concepts
+Model Training, Hyperparameter Tuning, Data Preprocessing, Evaluation Metrics, Experiment Tracking
+
+---
+
+## Current Focus
+- Building intelligent agents using Reinforcement Learning
+- Designing automation scripts and ML workflows
+- Implementing research papers to understand algorithms in depth
+- Developing scalable AI project structures
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/aryan1603jain/  
+Email: aryanjainssk@gmail.com
